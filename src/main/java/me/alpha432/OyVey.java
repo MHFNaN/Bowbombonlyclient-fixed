@@ -8,7 +8,7 @@ import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.lwjgl.opengl.Display;
 
-@Mod(modid = "oyvey", name = "OyVey", version = "0.0.3")
+@Mod(modid = "Oyvey bowbombonly", name = "OyVey", version = "0.0.3")
 public class OyVey {
     public static final String MODID = "oyvey";
     public static final String MODNAME = "OyVey";
