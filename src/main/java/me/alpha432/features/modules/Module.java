@@ -183,6 +183,7 @@ public class Module
     }
 
     public enum Category {
+        CLIENT("Client);
         MISC("Misc");
 
         private final String name;
